@@ -35,7 +35,7 @@
   <section id="contact" data-aos="fade-up">
     <h2>Contact Us</h2>
     <p>📍 153 Tỉnh lộ 835, Khu phố Thanh Ba, Cần Giuộc, Long An</p>
-    <p>📞 034 325 2831 123</p>
+    <p>📞 034 325 2831</p>
   </section>
 
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
