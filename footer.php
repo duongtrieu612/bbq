@@ -108,15 +108,7 @@
       <!-- CENTER -->
       <div class="footer2 text-center">
         <p><img src="http://demo130.ninavietnam.org/thang07_2025/soojinbbq_0890425w/upload/filemanager/files/logoft(2).png" alt="Logo Soojin" width="141" height="160"></p>
-        <h4>Mạng xã hội</h4>
-        <div class="socialfooter">
-          <?php
-          $socials = [1, 2, 3, 4, 5];
-          foreach ($socials as $i) {
-            echo '<a href="#"><img src="http://demo130.ninavietnam.org/thang07_2025/soojinbbq_0890425w/thumbs/39x39x1/upload/photo/mxh' . $i . '-17519431' . ($i + 7) . '.png.webp" alt="mxh' . $i . '"></a>';
-          }
-          ?>
-        </div>
+        
       </div>
 
       <!-- RIGHT -->
